@@ -1,10 +1,13 @@
 table, th, tr, td {
-    border: 2px solid black;
+    border: 2px solid gold;
 }
 
 body {
-    background-color: rgb(73, 73, 73);
+    background-image: url(https://www.harrods.com/BWStaticContent/50000/50000/6b987f49-81a1-42c2-bb6a-342617b662a7_d-hero-brand-t2-louis-xiii.jpg);
     color: whitesmoke;
+    padding: 100px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
 }
 
 .callout {
